@@ -2,4 +2,4 @@
 For this homework assignment, you should create a command line application using C# and Visual Studio.  
 
 # Screenshot
-![postman request output](Images/Stefan DeRosa Screenshot.png)
+![postman request output](/Images/Stefan DeRosa Screenshot.png)
