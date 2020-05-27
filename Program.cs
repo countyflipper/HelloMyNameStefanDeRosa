@@ -6,7 +6,11 @@ namespace HelloMyNameStefanDeRosa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Stefan!");
+            Console.WriteLine("Hello World!");
+            string szfname = "Stefan";
+            string szlname = "DeRosa";
+            Console.WriteLine("Hello my name is {0} {1}", szfname, szlname);
+
         }
     }
 }
